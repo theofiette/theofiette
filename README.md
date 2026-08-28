@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Student at 42 Paris, a school focused on project-based learning, autonomy and peer-learning !
+Developing video-games on the side.
+
+Looking for opportunities to expand my knowledge and skill set while building cool stuff !
+And I'm currently looking for a stage, so contact me if you'd like to work with me.
+
 <!--
 **theofiette/theofiette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
