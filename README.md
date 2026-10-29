@@ -18,7 +18,7 @@ I enjoy low-level programming and real-time rendering, and I'm looking forward t
 | [SCOP](https://github.com/theofiette/SCOP) | 3D `.obj` model viewer | C++, OpenGL, GLSL |
 | [ft_transcendence](https://github.com/Sosonyx/Transcendance) | Real-time multiplayer game where players must unmask an LLM (team of 5, tech lead / backend) | TypeScript, WebSocket |
 
-Currently building a Minecraft-style voxel engine in C++ / OpenGL with a teammate: chunk streaming, texture arrays, procedural generation in progress.
+Currently building a Minecraft-style voxel engine in C++ / OpenGL with a teammate: chunk streaming, texture arrays, procedural generation in progress. https://github.com/echatela/ft_vox
 
 ## Contact
 
