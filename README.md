@@ -1,22 +1,22 @@
-## Hi there 👋
+# Théo Fiette
 
-Student at 42 Paris, a school focused on project-based learning, autonomy and peer-learning !
-Developing video-games on the side.
+C/C++ developer trained at [42 Paris](https://42.fr), a project-based school with no teachers or lectures: you learn by building, and your code is reviewed by other students.
 
-Looking for opportunities to expand my knowledge and skill set while building cool stuff !
-And I'm currently looking for a stage, so contact me if you'd like to work with me.
+I enjoy low-level programming and real-time rendering. Before 42, I worked in film production and post-production, which is where my eye for visuals comes from.
 
-<!--
-**theofiette/theofiette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Looking for a 6-month internship or a work-study contract in Paris, starting January 2027.**
 
-Here are some ideas to get you started:
+## Featured projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it is | Stack |
+|---|---|---|
+| [Cub3D](https://github.com/theofiette/Cub3D) | Single-threaded raycasting 3D engine | C, MiniLibX |
+| [Minishell](https://github.com/theofiette/Minishell) | Unix shell: pipes, redirections, heredocs, `&&` / `\|\|`, subshells, wildcards | C |
+| [SCOP](https://github.com/theofiette/SCOP) | 3D `.obj` model viewer | C++, OpenGL, GLSL |
+| [ft_transcendence](https://github.com/Sosonyx/Transcendance) | Real-time multiplayer game where players must unmask an LLM (team of 5, tech lead / backend) | TypeScript, WebSocket |
+
+Currently building a Minecraft-style voxel engine in C++ / OpenGL with a teammate: chunk streaming, texture arrays, procedural generation in progress.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/th%C3%A9o-fiette) · theo.fiette@gmail.com
