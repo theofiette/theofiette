@@ -1,6 +1,6 @@
 # Théo Fiette
 
-C/C++ developer trained at [42 Paris](https://42.fr).
+C/C++ developer trained at [42 Paris](https://42.fr). Before 42, I worked in film production and post-production.
 
 I enjoy low-level programming and real-time rendering.
 
