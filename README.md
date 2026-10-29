@@ -1,8 +1,8 @@
 # Théo Fiette
 
-C/C++ developer trained at [42 Paris](https://42.fr), a project-based school with no teachers or lectures: you learn by building, and your code is reviewed by other students.
+C/C++ developer trained at [42 Paris](https://42.fr).
 
-I enjoy low-level programming and real-time rendering. Before 42, I worked in film production and post-production, which is where my eye for visuals comes from.
+I enjoy low-level programming and real-time rendering.
 
 **Looking for a 6-month internship or a work-study contract in Paris, starting January 2027.**
 
